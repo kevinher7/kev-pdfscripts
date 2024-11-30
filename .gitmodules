@@ -1,0 +1,3 @@
+[submodule "pdf_editor"]
+	path = pdf_editor
+	url = git@github.com:kevinher7/pdf_editor.git
